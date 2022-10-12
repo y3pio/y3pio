@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @y3pio - Frontend (mostly) @SQSP
 - 👀 Always looking to collaborate on small side projects!
-- 🌱 Always learning something new and growing with each day!
+- 🌱 Learning something new every day!
 - 📫 You can reach me at ye[at]y3p[dot]io
 
 <!---
