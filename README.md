@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @y3pio - Frontend (mostly) @SQSP
-- 👀 Always looking to collaborate on small side projects!
-- 🌱 Learning something new every day!
-- 📫 You can reach me at ye[at]y3p[dot]io
+👋 Hi, I’m @y3pio - Frontend (mostly) @SQSP
+
+👀 Always looking to collaborate on small side projects!
+
+🌱 Learning something new every day!
+
+📫 You can reach me at ye[at]y3p[dot]io
 
 <!---
 y3pio/y3pio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
