@@ -1,6 +1,6 @@
 👋 Hi, I’m @y3pio - Frontend (mostly) @SQSP
 
-📖 Adjunct Lecturere @HunterCollege
+📖 Adjunct Lecturer @HunterCollege
 
 👀 Always looking to collaborate on small side projects!
 
